@@ -1,0 +1,9 @@
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\bin\Debug\CaffinatedComputer.exe.config
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\bin\Debug\CaffinatedComputer.exe
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\bin\Debug\CaffinatedComputer.pdb
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\bin\Debug\CaffinatedComputer.xml
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\obj\Debug\CaffinatedComputer.Resources.resources
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\obj\Debug\CaffinatedComputer.vbproj.GenerateResource.Cache
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\obj\Debug\CaffinatedComputer.exe
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\obj\Debug\CaffinatedComputer.xml
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\obj\Debug\CaffinatedComputer.pdb

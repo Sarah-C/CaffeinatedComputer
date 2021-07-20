@@ -1,0 +1,10 @@
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\obj\Debug\CaffeinatedComputer.vbproj.GenerateResource.Cache
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\bin\Debug\CaffeinatedComputer.exe.config
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\bin\Debug\CaffeinatedComputer.exe
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\bin\Debug\CaffeinatedComputer.pdb
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\bin\Debug\CaffeinatedComputer.xml
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\obj\Debug\CaffeinatedComputer.Resources.resources
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\obj\Debug\CaffeinatedComputer.exe
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\obj\Debug\CaffeinatedComputer.xml
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\obj\Debug\CaffeinatedComputer.pdb
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\obj\Debug\CaffeinatedComputer.vbprojResolveAssemblyReference.cache

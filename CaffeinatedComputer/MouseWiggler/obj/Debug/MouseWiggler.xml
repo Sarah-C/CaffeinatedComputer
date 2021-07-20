@@ -1,0 +1,37 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MouseWiggler
+</name>
+</assembly>
+<members>
+<member name="T:MouseWiggler.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MouseWiggler.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MouseWiggler.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:MouseWiggler.My.Resources.Resources.TrayIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="M:MouseWiggler.Power.EnableConstantDisplayAndPower(System.Boolean)">
+ <summary>
+ Prevent screensaver, display dimming and power saving. This function wraps PInvokes on Win32 API. 
+ </summary>
+ <param name="enableConstantDisplayAndPower">True to get a constant display and power - False to clear the settings</param>
+</member>
+</members>
+</doc>

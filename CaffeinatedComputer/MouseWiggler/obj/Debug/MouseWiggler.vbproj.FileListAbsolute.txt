@@ -1,0 +1,12 @@
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\bin\Debug\MouseWiggler.exe.config
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\bin\Debug\MouseWiggler.exe
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\bin\Debug\MouseWiggler.pdb
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\bin\Debug\MouseWiggler.xml
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\obj\Debug\MouseWiggler.vbprojResolveAssemblyReference.cache
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\obj\Debug\MouseWiggler.Resources.resources
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\obj\Debug\MouseWiggler.vbproj.GenerateResource.Cache
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\obj\Debug\MouseWiggler.exe
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\obj\Debug\MouseWiggler.xml
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\obj\Debug\MouseWiggler.pdb
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\obj\Debug\MouseWiggler.Form1.resources
+C:\MobileApps\Projects\MouseWiggler\MouseWiggler\bin\Debug\CaffinatedComputer.exe.config
