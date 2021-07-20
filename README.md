@@ -3,7 +3,7 @@ Despite the folder name - this does NOT wiggle the mouse. It uses Windows own po
 
 It lives in your system tray:
 
-![image](https://user-images.githubusercontent.com/1586332/126336544-ab3d2774-b6eb-4708-845e-a83b49f0dae3.png)
+![image](https://user-images.githubusercontent.com/1586332/126336859-210218ee-128a-4357-bb6f-3c76bfece72b.png)
 
 The program when it starts running in the system tray, asks Windows Kernel (winbase.h) to keep the "System" as well as the "Display" powered. (Everything)
 
