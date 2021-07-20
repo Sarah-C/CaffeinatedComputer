@@ -11,6 +11,8 @@ The program when it starts running in the system tray, asks Windows Kernel (winb
      
      _PowerSetRequest(_PowerRequest, PowerRequestType.PowerRequestDisplayRequired)_
  
+ When the user closes it (right click the icon, and "Close the program"), the requests are cleared.
+ 
  https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-powersetrequest
  
  
